@@ -4,7 +4,8 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src=""C:\Users\Ghayoor khan\Downloads\ChatGPT Image Jul 18, 2026, 05_01_49 PM.png"" alt="GitHub Banner" width="100%">
+  <img src="![Uploading github-banner.png…]()
+" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Ghayoor Khan</h1>
