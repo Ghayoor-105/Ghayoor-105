@@ -1,33 +1,251 @@
-<h1 align="center">Hi 👋, I'm Ghayoor khan</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                  -->
+<!--              AI Engineer | Software Engineer              -->
+<!-- ========================================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayoor-105&label=Profile%20views&color=0e75b6&style=flat" alt="ghayoor-105" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghayoor-105" alt="ghayoor-105" /></a> </p>
-
-- 🌱 I’m currently learning **React.js, Vue.js, Bootstrap, Tailwind CSS,SEO course, Digital marketing.**
-
-- 👯 I’m looking to collaborate on **E-commerce project**
-
-- 🤝 I’m looking for help with **refining UI/UX designs**
-
-- 💬 Ask me about **UI/UX designs**
-
-- 📫 How to reach me **ghayoorkhan1015@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ghayoorkhan1015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ghayoorkhan1015" height="30" width="40" /></a>
+<p align="center">
+  <img src=""C:\Users\Ghayoor khan\Downloads\ChatGPT Image Jul 18, 2026, 05_01_49 PM.png"" alt="GitHub Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Ghayoor Khan</h1>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ghayoor-105"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ghayoor-105" /></a></p><br><br>
+<h3 align="center">
+AI Engineer | Software Engineer
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghayoor-105&show_icons=true&locale=en&layout=compact" alt="ghayoor-105" /></p>
+<p align="center">
+Building intelligent software that combines modern software engineering with artificial intelligence.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghayoor-105&show_icons=true&locale=en" alt="ghayoor-105" /></p>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghayoor-105&" alt="ghayoor-105" /></p>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Ghayoor-105">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# About Me
+
+I am a Computer Science graduate passionate about building intelligent software systems that combine modern software engineering with Artificial Intelligence.
+
+My interests lie at the intersection of AI engineering, scalable backend systems, and full-stack application development. I enjoy transforming real-world problems into practical, production-ready AI solutions.
+
+I continuously learn, build, and improve through hands-on projects while preparing for graduate studies in Artificial Intelligence.
+
+---
+
+# Current Focus
+
+- Building AI-powered Full Stack Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- FastAPI Backend Development
+- React & Flutter Applications
+- Software Architecture
+- Machine Learning Fundamentals
+- MLOps & AI Deployment
+
+---
+
+# Research Interests
+
+- Artificial Intelligence
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Intelligent Systems
+- Computer Vision
+- Software Engineering
+- Cloud AI
+- Responsible AI
+
+---
+
+# Featured Projects
+
+## AI Resume Bullet Point Improver
+
+AI-powered application that transforms weak resume bullet points into ATS-friendly achievement statements using Large Language Models.
+
+**Tech Stack**
+
+- React
+- TypeScript
+- FastAPI
+- Gemini API
+- Tailwind CSS
+
+---
+
+## QuizVibe
+
+An AI-powered adaptive learning platform designed to help students prepare for IELTS and TOEFL through personalized quizzes and intelligent learning experiences.
+
+**Tech Stack**
+
+- Flutter
+- Firebase
+- AI Integration
+
+---
+
+## Real-Time Fire Detection using YOLOv8
+
+Computer Vision project capable of detecting fire in real time using deep learning and OpenCV.
+
+**Tech Stack**
+
+- Python
+- YOLOv8
+- OpenCV
+- Roboflow
+
+---
+
+## Employee Management System
+
+A modern full-stack employee management system with authentication, role management, and database integration.
+
+---
+
+# Technical Skills
+
+## Languages
+
+- Python
+- JavaScript
+- TypeScript
+- Dart
+- SQL
+
+## Frontend
+
+- React
+- Tailwind CSS
+- HTML5
+- CSS3
+- Flutter
+
+## Backend
+
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+
+## Artificial Intelligence
+
+- Gemini API
+- Azure AI
+- Prompt Engineering
+- OpenCV
+- YOLOv8
+
+## Databases
+
+- MongoDB
+- Firebase
+- PostgreSQL
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+# Engineering Principles
+
+I believe great software should be:
+
+- Scalable
+- Maintainable
+- User-Centered
+- Secure
+- Well Documented
+- AI-Enhanced
+- Built with Clean Architecture
+
+---
+
+# Learning Roadmap
+
+### 2026
+
+- AI Engineering
+- LLM Applications
+- Full Stack AI Development
+- FastAPI
+- Computer Vision
+
+### 2027
+
+- Advanced Machine Learning
+- MLOps
+- Distributed AI Systems
+- AI Research
+- Open Source Contributions
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghayoor-105&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghayoor-105&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghayoor-105&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Goals
+
+- Build impactful AI-powered software
+- Contribute to open-source AI projects
+- Publish production-ready applications
+- Pursue graduate research in Artificial Intelligence
+- Solve real-world challenges through intelligent systems
+
+---
+
+# Let's Connect
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn:
+https://linkedin.com/in/YOUR-LINKEDIN
+
+🌐 Portfolio:
+Coming Soon
+
+---
+
+<p align="center">
+
+<i>
+"Building software that thinks. Engineering solutions that matter."
+</i>
+
+</p>
