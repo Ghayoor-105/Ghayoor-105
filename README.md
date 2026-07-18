@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github.com/Ghayoor-105/Ghayoor-105/blob/main/github-banner.png
+  <img src="https://raw.githubusercontent.com/Ghayoor-105/Ghayoor-105/main/github-banner.png
 " alt="GitHub Banner" width="100%">
 </p>
 
