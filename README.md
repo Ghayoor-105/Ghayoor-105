@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="github-banner.png
+  <img src="https://github.com/Ghayoor-105/Ghayoor-105/blob/main/github-banner.png
 " alt="GitHub Banner" width="100%">
 </p>
 
@@ -233,10 +233,11 @@ I believe great software should be:
 
 # Let's Connect
 
-📧 Email: YOUR_EMAIL
+📧 Email: ghayoorkhan1015@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
+
+https://www.linkedin.com/in/ghayoorkhan1015/
 
 🌐 Portfolio:
 Coming Soon
