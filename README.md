@@ -4,9 +4,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghayoor-105/Ghayoor-105/main/github-banner.png
-" alt="GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Ghayoor-105/Ghayoor-105/main/github-banner.png" alt="GitHub Banner" width="100%" />
 </p>
+
+<h1 align="center">Ghayoor Khan</h1>
 
 <h1 align="center">Ghayoor Khan</h1>
 
